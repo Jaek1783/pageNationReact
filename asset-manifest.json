@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jaek1783/pageNation_React.git/static/css/main.1a0a8c62.css",
+    "main.js": "/Jaek1783/pageNation_React.git/static/js/main.78ff9b98.js",
+    "index.html": "/Jaek1783/pageNation_React.git/index.html",
+    "main.1a0a8c62.css.map": "/Jaek1783/pageNation_React.git/static/css/main.1a0a8c62.css.map",
+    "main.78ff9b98.js.map": "/Jaek1783/pageNation_React.git/static/js/main.78ff9b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a0a8c62.css",
+    "static/js/main.78ff9b98.js"
+  ]
+}
